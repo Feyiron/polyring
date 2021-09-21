@@ -88,5 +88,10 @@
         "title": "Luc Aggett",
         "url"  : "http://nothome.xyz/",
         "feed" : "https://nothome.xyz/feed/"
+    },
+    {
+        "title": "Jan Blum",
+        "url"  : "https://festive-hermann-72ab2f.netlify.app/",
+        "feed" : "https://festive-hermann-72ab2f.netlify.app/posts/index.xml"
     }
 ]
